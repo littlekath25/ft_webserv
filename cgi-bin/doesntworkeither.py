@@ -1,0 +1,1 @@
+print('<title>Hello World - First CGI Program</title>')
